@@ -14,7 +14,6 @@ print("Rb: " + str(Rb))
 print("Ugsq: " + str(Ugsq))
 
 
-
 Gm = ((-2*Idss)/Up)*(1-(Ugsq/Up))
 h21 = 100
 h11 = 2000
